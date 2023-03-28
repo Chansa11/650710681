@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-candy-colored-summer-main-map-picture-image_1112525.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+p.padding {
+    padding-top: 5%;
+}

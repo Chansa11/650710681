@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://img.pikbest.com/backgrounds/20191113/blue-technology-big-data-intelligence-peak-background_2778011.jpg!w700wp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+p.padding {
+    padding-top: 5%;
+}
